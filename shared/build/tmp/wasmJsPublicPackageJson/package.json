@@ -1,0 +1,13 @@
+{
+  "name": "KMPDemo-shared-wasm-js",
+  "version": "0.0.0-unspecified",
+  "main": "KMPDemo-shared-wasm-js.mjs",
+  "types": "KMPDemo-shared-wasm-js.d.ts",
+  "devDependencies": {},
+  "dependencies": {
+    "format-util": "^1.0.5"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
