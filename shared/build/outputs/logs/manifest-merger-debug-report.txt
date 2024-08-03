@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\pasan\AndroidStudioProjects\KMPDemo\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest5511428166150215710.xml:2:13-83
-INJECTED from C:\Users\pasan\AndroidStudioProjects\KMPDemo\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest5511428166150215710.xml:2:13-83
+ADDED from C:\Users\pasan\AndroidStudioProjects\KMPDemo\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16809518036080529992.xml:2:13-83
+INJECTED from C:\Users\pasan\AndroidStudioProjects\KMPDemo\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16809518036080529992.xml:2:13-83
 	package
-		INJECTED from C:\Users\pasan\AndroidStudioProjects\KMPDemo\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest5511428166150215710.xml
+		INJECTED from C:\Users\pasan\AndroidStudioProjects\KMPDemo\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16809518036080529992.xml
 	xmlns:android
-		ADDED from C:\Users\pasan\AndroidStudioProjects\KMPDemo\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest5511428166150215710.xml:2:23-81
+		ADDED from C:\Users\pasan\AndroidStudioProjects\KMPDemo\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16809518036080529992.xml:2:23-81
 uses-sdk
-INJECTED from C:\Users\pasan\AndroidStudioProjects\KMPDemo\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest5511428166150215710.xml reason: use-sdk injection requested
-INJECTED from C:\Users\pasan\AndroidStudioProjects\KMPDemo\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest5511428166150215710.xml
-INJECTED from C:\Users\pasan\AndroidStudioProjects\KMPDemo\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest5511428166150215710.xml
+INJECTED from C:\Users\pasan\AndroidStudioProjects\KMPDemo\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16809518036080529992.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pasan\AndroidStudioProjects\KMPDemo\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16809518036080529992.xml
+INJECTED from C:\Users\pasan\AndroidStudioProjects\KMPDemo\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16809518036080529992.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\pasan\AndroidStudioProjects\KMPDemo\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest5511428166150215710.xml
+		INJECTED from C:\Users\pasan\AndroidStudioProjects\KMPDemo\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16809518036080529992.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\pasan\AndroidStudioProjects\KMPDemo\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest5511428166150215710.xml
+		INJECTED from C:\Users\pasan\AndroidStudioProjects\KMPDemo\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16809518036080529992.xml
